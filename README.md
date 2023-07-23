@@ -1,2 +1,2 @@
 # Abidseraj
-This dataset taken from kaggle.This data set is not belong to me. i just taken it from kaggle.
+This dataset is taken from Kaggle. This data set does not belong to me. I just took it from Kaggle.
